@@ -1,0 +1,43 @@
+
+.m {color: rgb(237, 23, 76);}
+
+p {color: rgb(77, 77, 77);}
+section p {font-size: 18px;}
+
+
+h1 {color: rgb(237, 23, 76);}
+h1 {font-weight: 800;}
+
+.black {color: rgb(0, 0, 0);}
+
+footer {background-color: rgb(23, 23, 23);}
+footer p {color: rgb(155, 139, 139);} 
+footer h1 {color: rgb(195, 195, 195) ;} 
+
+
+
+#logo {height: 100px;
+        width: 500px;}
+
+#shua 
+{ height: 500px;
+  width: 900px;}
+
+#bolo {height: 700px;
+width: 900px;}
+
+#header-container {background-color: black;
+  border: 5px solid red;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 500px;
+  padding-right: 500px;
+margin-bottom: 30px
+} 
+#header-container, ul {display: flex;
+  flex-direction: row;}
+
+#sia {gap: 30px;}  
+
+
+
